@@ -1,4 +1,4 @@
 # Compose-Playground
 
 ## Responsive items
-<img src="https://gifyu.com/image/SCXOS" />
+<img src="https://s9.gifyu.com/images/SCXOS.md.gif" />
